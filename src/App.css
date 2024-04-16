@@ -1,0 +1,11 @@
+.App {
+  background: #ade0e0;
+  min-height: 100vh;
+  display: flex;
+  font-size: 14px;
+  color: #000;
+}
+.title{
+  font-size: 16px;
+  font-weight: bold;
+}

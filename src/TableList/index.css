@@ -1,0 +1,8 @@
+.tableLayout {
+  flex: 1;
+  margin: 24px;
+  padding: 24px;
+  border-radius: 8px;
+  background: #fff;
+  overflow: hidden;
+}
